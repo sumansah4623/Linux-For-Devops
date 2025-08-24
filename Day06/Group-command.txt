@@ -1,0 +1,8 @@
+**************Command for creating Group***************
+
+*************Steps for creating groups****************
+
+1. sudo groupadd <groupName>  (creating new group)
+2. cat /etc/group   (display all group on screen)
+3. sudo gpasswd -a <userName> <groupName>    (adding user to group)
+4. cat /etc/group    (now check)
