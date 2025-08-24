@@ -1,0 +1,5 @@
+
+# sudo is super user of the system just like papa in the family
+1. sudo shutdown
+2. sudo reboot
+
