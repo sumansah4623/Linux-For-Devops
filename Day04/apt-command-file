@@ -1,7 +1,10 @@
 
 # apt command is used for managing software packages in debian/ubuntu linux system
 
-# apt is used for installing, updating, upgrading, and removing software in linux
+# apt is used for installing, updating, upgrading,and removing software in linux
+
+# sudo apt-get , here -get is for downloading from internet
+
 
 uses of apt
 1.install software -> sudo apt install package
