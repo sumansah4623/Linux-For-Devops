@@ -1,0 +1,9 @@
+
+# apt command is used for managing software packages in debian/ubuntu linux system
+
+# apt is used for installing, updating, upgrading, and removing software in linux
+
+uses of apt
+1.install software -> sudo apt install package
+2.Update package list -> sudo apt update
+3.Upgrade install software -> sudo apt upgrade
