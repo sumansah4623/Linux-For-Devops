@@ -1,0 +1,10 @@
+
+***********User Management Command***************
+
+
+***********Steps for Creating New User***********
+1. pwd
+2. sudo useradd -m <userName>   (creating new user)
+3. cd .. -> /home$     (going to home directory)
+4. sudo passwd <newUserName>   (creating password of new User)
+
