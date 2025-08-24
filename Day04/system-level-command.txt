@@ -1,0 +1,22 @@
+# system level command are
+
+1. uname -> is used to check system detail
+2. uptime -> is used for checking how long the system has been running and sytem load
+
+3. date -> is used to display or set the system date and time
+4. who -> show who is logged into the system
+5. whoami -> show the current logged-in username
+6. which -> is used to find the full path of a command's executable
+7. id -> is used to display user identity information such as User id(UID), GID of current user
+8. sudo -> is used to run commands with root(administrator) privileges
+           
+         sudo = "superuser do"
+                 it allow a regular user to run command with administrator(root)                 privileges
+
+9. shutdown -> is used to power off , restart a linux system safely
+10. reboot -> is used to restart linux system
+11. Apt ->  is used for managing software packages in Debian/Ubuntu Linux system
+12. Yum ->  is used for package management in RHEL-based Linux sytem(redhat,centos, fedora)
+13. Dnf ->  is used for installing, updating, upgrading software package
+14. pacman ->  is used for installing software in arch linux
+15. portage -> is used for installing software in gentoo linux
