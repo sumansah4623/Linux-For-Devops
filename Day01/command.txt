@@ -1,0 +1,37 @@
+# basic command
+
+pwd-> print working directory
+ls -l-> list files with details
+cd /path-> change directory
+clear ->  clear terminal
+
+
+# File Operations
+touch file.txt -> create empty file
+cat file.txt -> Display file content
+rm file.txt -> remove file
+mv file1 file2 -> rename/move file
+
+
+# permissions
+chmod 754 script.sh -> change permissions
+chown user file -> change owner
+
+
+# process Management
+ps -> List processes
+top -> Monitor processes
+kill -9 PID -> kill a process by ID
+
+
+# Disk Usage
+df -h -> show disk usage
+du -sh -> show directory sizes
+
+
+# Networking
+ping google.com -> check connectivity
+ifconfig / ip addr -> show IP address
+netstat -tulnp -> show active ports
+
+
