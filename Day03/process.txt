@@ -1,0 +1,45 @@
+# ***************Process Management Commands***********
+
+# show current user's processes
+ps -u $USER
+
+
+# show all processes (full details)
+ps -ef
+
+
+# show a specific process by PID
+ps -p <PID>
+
+
+# Moniter running processes in real-time
+top
+
+
+# start process in background
+sleep 60 &
+
+
+#List jobs running in current shell
+jobs
+
+
+# kill a process by PID
+kill <PID>
+
+
+# kill by process name
+pkill <process_name>
+
+
+# show process tree
+pstree
+
+
+# find PID of a process
+pidof <process_name>
+
+
+# check CPU  and memory usage of processes
+ps aux --sort=-%cpu | head -5
+ps aux --sort=-%mem | head -5 
