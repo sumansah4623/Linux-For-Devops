@@ -11,3 +11,5 @@
 6. whoami  (run this command for checking current user)
 7. su <newUserName>     (now su for switch user to new user)
 8. $  (output)
+9. sudo userdel <userName>  (for deleting user from system)
+
