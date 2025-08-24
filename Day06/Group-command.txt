@@ -7,4 +7,5 @@
 3. sudo gpasswd -a <userName> <groupName>    (adding user to group)
 4. sudo gpasswd -m <user1>, <user2>, <user3> <GroupName> (adding multiple users to one group)
 5. cat /etc/group    (now check)
+6. sudo groupdel <groupName> (for deleting group)
 
