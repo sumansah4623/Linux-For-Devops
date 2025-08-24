@@ -7,4 +7,7 @@
 2. sudo useradd -m <userName>   (creating new user)
 3. cd .. -> /home$     (going to home directory)
 4. sudo passwd <newUserName>   (creating password of new User)
-
+5. ls    (now check new user is created or not)
+6. whoami  (run this command for checking current user)
+7. su <newUserName>     (now su for switch user to new user)
+8. $  (output)
