@@ -1,0 +1,5 @@
+*****************Compressed Command***********************
+
+1. zip -r <compressfile.zip> <fileName>
+2. unzip <zipFileName>     (unzip file)   example : file.zip
+3. tar -xvzf
