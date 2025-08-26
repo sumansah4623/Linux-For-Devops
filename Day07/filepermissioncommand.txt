@@ -1,0 +1,10 @@
+************File Permission Command************
+
+1. ls
+2. ls -l    (for checking permission of the file)
+3. chmod    (change mode , it is a linux/unix command used to change the file pe             rmission of a  file or directory(read, write, execute)).
+4. chmod 777 <filename>     (file permission to user, group, to other)
+5. umask 0002   (by default file permission) 
+6. sudo shown jethalal <fileName>   (change file ownership)
+7. sudo chgrp <filefile> <file>    (change group ownership)
+8. 
