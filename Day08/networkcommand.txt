@@ -1,0 +1,43 @@
+******************Network Command**************
+
+1. ping <website.com> ->  ping command is used to check connectivity between                              your system and a website/server
+                           example : ping google.com
+
+2. netstat            ->  netstat command is used  to display network                                     connection, roting table, interface statistic
+
+3. ifconfig           ->  ifconfig command is used to view and configure 
+                           network interface in Linux/Unix system
+
+4. traceroute         ->  traceroute is a network diagnostic command used
+                           to track the path that packets take from your                                 system to a destination (like a website or ip address)
+
+5. tracepath          ->  Like traceroute, but  simpler, no root needed,
+                          also shows MTU.
+
+6. mtr <website.com>  ->  mtr(my trace route)
+                          it combines ping + traceroute in one tool
+                          it continuously show route packets take to a host and                           latency/loss at each hop
+
+7. nslookup           -> name server lookup (it is used to query DNS
+                         (domain name system) to find the ip address of a domain
+
+8. hostname           -> it is simple command to show or set system's hostname
+                         (name that identifies your computer on a network)
+
+9. telnet             -> it is a command-line tool used to connect to remote 
+                         system over tcp.
+
+10. iwconfig          -> it is a linux command used to configure and check wirel                         ess network interfaces(wi-fi)
+
+11. ss                -> it is modern, faster replacement for netstat
+                         used to display network connection, sockets, ports, and                         statistics.
+
+12. dig               -> it is a powerful DNS lookup tool(modern replacement for                         nslookup). used to query DNS record of a domain.
+
+13. whois             -> it is a command-line tool used to get domain registrati                         on detail from WHOIS database
+
+14. nc(netcat)        -> it is called "swiss-army knife" of networking - used fo                         r checking ports, sending data, creating servers, and
+                         even debugging.
+
+15. ifplugstatus      -> it is a small linux utility used to check if a network                          cable is plugged into a network interface
+                         (for wired ethernet)
