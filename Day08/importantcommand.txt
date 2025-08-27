@@ -1,0 +1,12 @@
+********************Important Network Command***********************
+
+1. curl -X GET <api link>
+2. wget   -> it is a command-line toolto download files from web(suppots HTTp, H             TTPS, FTP)
+
+3. traceroute -> shows path packets take to reach a host
+4. iptables   -> it ia a Linux command-line utility to configure firewall rules                  (packet filtering, NAT, port forwarding).
+
+5. watch      -> it is linux command to run another command repeatedly at a fixe                 d interval and show the output live
+6. nmap       -> it is a powerful tool to scan network and hosts, used for port                  scanning, service detection, os detection,and security auditing
+7. route      -> it is linux command to view and modify kernel's ip routing tabl                 e (decides how packet are sent)
+
