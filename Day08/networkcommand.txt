@@ -41,3 +41,7 @@
 
 15. ifplugstatus      -> it is a small linux utility used to check if a network                          cable is plugged into a network interface
                          (for wired ethernet)
+
+16. arp               -> it is used to view and manipulate the arp cache, which                          maps ip addresses - MAC addresses on a local network
+                         (Address Resolution Protocol command)
+ 
